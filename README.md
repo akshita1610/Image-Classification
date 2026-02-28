@@ -216,8 +216,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Author**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn]  
-
 *Built with ❤️ for learning and sharing knowledge.*
